@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assignment - 01</title>
+    <link rel="stylesheet" href="ass4.css">
+</head>
+
+<body>
+    <article>
+        <h2>Camille Bernard's Post</h2>
+        <div>
+            <figure>
+                <img src=https://th.bing.com/th/id/OIP.UHbAF6yPon33W3A03yO47wHaFj?w=244&h=183&c=7&o=5&dpr=1.5&pid=1.7>
+            </figure>
+            <div class="side-right">
+                <h3>Florence Tour</h3>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Expedita labore omnis adipisci deleniti
+                    voluptatum magnam iure ex nihil unde quidem blanditiis facere consequatur corporis dolorum sint
+                    doloribus a odit impedit optio, quod, molestias quae, est illo maiores.</p>
+            </div>
+
+
+            <a href="">Read more</a>
+
+        </div>
+        <div>
+            <figure>
+                <img src=https://th.bing.com/th/id/OIP.UHbAF6yPon33W3A03yO47wHaFj?w=244&h=183&c=7&o=5&dpr=1.5&pid=1.7>
+            </figure>
+            <div class="side-right">
+                <h3>Florence Tour</h3>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Expedita labore omnis adipisci deleniti
+                    voluptatum magnam iure ex nihil unde quidem blanditiis facere consequatur corporis dolorum sint
+                    doloribus a odit impedit optio, quod, molestias quae, est illo maiores.</p>
+            </div>
+
+            <a href="">Read more</a>
+
+        </div>
+        <div>
+            <figure>
+                <img src=https://th.bing.com/th/id/OIP.UHbAF6yPon33W3A03yO47wHaFj?w=244&h=183&c=7&o=5&dpr=1.5&pid=1.7>
+                                         
+            </figure>
+            <div class="side-right">
+                <h3>Florence Tour</h3>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Expedita labore omnis adipisci deleniti
+                    voluptatum magnam iure ex nihil unde quidem blanditiis facere consequatur corporis dolorum sint
+                    doloribus a odit impedit optio, quod, molestias quae, est illo maiores.</p>
+            </div>
+
+
+            <a href="">Read more</a>
+
+        </div>
+    </article>
+    <footer>
+        <div class="left">
+            <h4>Lorem ipsum dolor sit amet.</h4>
+            <ul>
+                <li><img src=https://th.bing.com/th/id/OIP.UHbAF6yPon33W3A03yO47wHaFj?w=244&h=183&c=7&o=5&dpr=1.5&pid=1.7 alt=""></li>
+                <li><img src=https://th.bing.com/th/id/OIP.UHbAF6yPon33W3A03yO47wHaFj?w=244&h=183&c=7&o=5&dpr=1.5&pid=1.7 alt=""></li>
+                <li><img src=https://th.bing.com/th/id/OIP.UHbAF6yPon33W3A03yO47wHaFj?w=244&h=183&c=7&o=5&dpr=1.5&pid=1.7 alt=""></li>
+                <li><img src=https://th.bing.com/th/id/OIP.UHbAF6yPon33W3A03yO47wHaFj?w=244&h=183&c=7&o=5&dpr=1.5&pid=1.7 alt=""></li>
+                <li><img src=https://th.bing.com/th/id/OIP.UHbAF6yPon33W3A03yO47wHaFj?w=244&h=183&c=7&o=5&dpr=1.5&pid=1.7 alt=""></li>
+            </ul>
+            <ul>
+                <li><img src=https://th.bing.com/th/id/OIP.UHbAF6yPon33W3A03yO47wHaFj?w=244&h=183&c=7&o=5&dpr=1.5&pid=1.7 alt=""></li>
+                <li><img src=https://th.bing.com/th/id/OIP.UHbAF6yPon33W3A03yO47wHaFj?w=244&h=183&c=7&o=5&dpr=1.5&pid=1.7  alt=""></li>
+                <li><img src="https://th.bing.com/th/id/OIP.UHbAF6yPon33W3A03yO47wHaFj?w=244&h=183&c=7&o=5&dpr=1.5&pid=1.7 alt=""></li>
+                <li><img src=https://th.bing.com/th/id/OIP.UHbAF6yPon33W3A03yO47wHaFj?w=244&h=183&c=7&o=5&dpr=1.5&pid=1.7  alt=""></li>
+                <li><img src=https://th.bing.com/th/id/OIP.UHbAF6yPon33W3A03yO47wHaFj?w=244&h=183&c=7&o=5&dpr=1.5&pid=1.7  alt=""></li>
+            </ul>
+        </div>
+        <div class="right">
+            <h4>Lorem ipsum dolor sit amet.</h4>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing 
+                  accusantium impedit quisquam sit perspiciatis
+                odit porro laboriosam ut optio corporis. Lorem ipsum dolor sit amet consectetur adipisicing elit.</p> <p> Sapiente placeat assumenda vel molestias sed! Repudiandae quibusdam aperiam repellendus, fugit magni consequatur voluptates? At, numquam! Est sed excepturi ad ipsum ea?</p>
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Incidunt autem dolore</p>
+        </div>
+    </footer>
+</body>
+
+</html>
